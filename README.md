@@ -16,8 +16,9 @@ Please star⭐ the repo if you like what you see😉.
 |------|-------|
 |<img src="ss/auth.png" width="400">|<img src="ss/signup.png" width="400">|
 |<img src="ss/onboard.png" width="400">|<img src="ss/home.png" width="400">|
-|<img src="ss/search.png" width="400">|<img src="ss/matchdetail.png" width="400">|
+|<img src="ss/matchdetail.png" width="400">|<img src="ss/matchdetail2.png" width="400">|
 |<img src="ss/explore.png" width="400">|<img src="ss/articledetail.png" width="400">|
+|<img src="ss/search.png" width="400">|<img src="ss/profile.png" width="400">|
 |<img src="ss/standing.png" width="400">|<img src="ss/standindetail.png" width="400">|
 
 

@@ -18,9 +18,7 @@ import com.example.livescore.navigation.AppNavigation
 import com.example.livescore.navigation.BottomNavigation
 import com.example.livescore.navigation.bottomNavItems
 import com.example.livescore.ui.theme.LiveScoreTheme
-import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
